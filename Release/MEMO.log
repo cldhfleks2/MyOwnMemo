@@ -1,0 +1,12 @@
+﻿  Find.cpp
+D:\WORKPLACE\C++\MEMO\resource.h(59,1): warning C4005: 'ID_HELP': 매크로 재정의
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(284): message : 'ID_HELP'의 이전 정의를 참조하십시오.
+D:\WORKPLACE\C++\MEMO\resource.h(61,1): warning C4005: 'IDC_STATIC': 매크로 재정의
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(343): message : 'IDC_STATIC'의 이전 정의를 참조하십시오.
+  MEMO.cpp
+  코드를 생성하고 있습니다.
+  0 of 128 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  MEMO.vcxproj -> D:\WORKPLACE\C++\MEMO\Release\MEMO.exe
